@@ -1,4 +1,6 @@
-## Harp License Service
+## Open Source Incident Management system - Harp License Service
+
+### Full info about Project - https://github.com/harpia-io/harpia
 
 ### Intro
 The backend service of Harp Platform and works as license usage.
